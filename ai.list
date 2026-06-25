@@ -21,7 +21,7 @@ DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,labs.google
 DOMAIN-SUFFIX,bard.google.com
 
-# DeepSeek (国内)
+# DeepSeek
 DOMAIN-SUFFIX,deepseek.com
 DOMAIN-SUFFIX,deepseek.ai
 # Moonshot / Kimi (月之暗面)
