@@ -1,2 +1,4 @@
 # 白名单域名（全球直连）
 DOMAIN-SUFFIX,npmjs.org
+# Z.ai 在阿里云全球加速上，国内可直连
+DOMAIN-SUFFIX,z.ai
