@@ -19,8 +19,9 @@ DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,labs.google
 DOMAIN-SUFFIX,bard.google.com
 
-# DeepSeek
-DOMAIN-SUFFIX,deepseek.com
+# DeepSeek：api/www/platform/cdn/static 国内直连更快，仅这两个子域被本地防火墙拦截需代理
+DOMAIN,chat.deepseek.com
+DOMAIN,status.deepseek.com
 # Moonshot / Kimi
 # DOMAIN-SUFFIX,kimi.com
 # DOMAIN-SUFFIX,moonshot.cn
