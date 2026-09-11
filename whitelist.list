@@ -4,3 +4,5 @@ DOMAIN-SUFFIX,npmjs.org
 DOMAIN-SUFFIX,z.ai
 # opencode.ai 在 Cloudflare anycast 上，国内可直连且实测比代理快，auth/api 子域均可直连
 DOMAIN-SUFFIX,opencode.ai
+# mcp.exa.ai 在 Cloudflare anycast 上直连快；exa.ai 主域在 Vercel 上代理更快，故只精确匹配 MCP 子域
+DOMAIN,mcp.exa.ai
