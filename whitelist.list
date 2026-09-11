@@ -2,3 +2,5 @@
 DOMAIN-SUFFIX,npmjs.org
 # Z.ai 在阿里云全球加速上，国内可直连
 DOMAIN-SUFFIX,z.ai
+# opencode.ai 在 Cloudflare anycast 上，国内可直连且实测比代理快，auth/api 子域均可直连
+DOMAIN-SUFFIX,opencode.ai
