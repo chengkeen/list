@@ -1,0 +1,3 @@
+# 本地网络拦截、需强制走代理的域名（路由到 🚀 节点选择）
+# 微信网页版：直连被本地网络 TLS 拦截，qq.com 整域在 ChinaDomain 里默认直连，故在此单独放行
+DOMAIN-SUFFIX,wx.qq.com
